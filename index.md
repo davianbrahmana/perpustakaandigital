@@ -12,6 +12,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Ebook 8](ebook/ebook8.pdf)
 9. [Ebook 9](ebook/ebook9.pdf)
 10. [Ebook 10](ebook/ebook10.pdf)
+11. [Ebook 11](ebook/ebook11.pdf)
 
 ---
 *Powered by GitHub Pages*
