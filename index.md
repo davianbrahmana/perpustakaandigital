@@ -7,5 +7,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 3. [Ebook 3](ebook/ebook3.pdf)
 4. [Ebook 4](ebook/ebook4.pdf)
 5. [Ebook 5](ebook/ebook5.pdf)
+6. [Ebook 6](ebook/ebook6.pdf)
 ---
 *Powered by GitHub Pages*
