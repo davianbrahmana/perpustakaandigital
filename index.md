@@ -6,5 +6,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 2. [Ringkasan Transformasi Perpustakaan](ebook/ringkasan-transformasi-perpustakaan.pdf)
 3. [Ebook 3](ebook/ebook3.pdf)
 4. [Ebook 4](ebook/ebook4.pdf)
+5. [Ebook 5](ebook/ebook5.pdf)
 ---
 *Powered by GitHub Pages*
