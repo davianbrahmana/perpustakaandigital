@@ -5,5 +5,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 1. [paradigma](ebook/paradigma.pdf) – Hamzah B. Uno (2020) 
 2. [Ringkasan Transformasi Perpustakaan](ebook/ringkasan-transformasi-perpustakaan.pdf)
 3. [Ebook 3](ebook/ebook3.pdf)
+4. [Ebook 4](ebook/ebook4.pdf)
 ---
 *Powered by GitHub Pages*
